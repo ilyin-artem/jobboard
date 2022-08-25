@@ -1,0 +1,489 @@
+{
+    "vacancy": [
+        {
+            "id": 1,
+            "jobTitle": "Chief Solutions Agent",
+            "jobCategory": "Admin & Customer Support",
+            "companyDetails": {
+                "name": "Nvidia",
+                "link": "http://nvidia.com",
+                "industry": "hotel business",
+                "about": "id incididunt ex voluptate labore sit officia velit incididunt fugiat reprehenderit veniam nostrud nostrud quis cupidatat elit eu cillum quis officia ut excepteur do veniam consectetur ut laboris labore enim incididunt aliqua cupidatat esse mollit ex aliqua velit labore dolore laborum in minim magna nostrud veniam culpa aliquip consequat commodo dolore laboris incididunt sint ex irure ipsum aliqua labore proident commodo ut reprehenderit adipisicing"
+            },
+            "position": {
+                "jobExperience": ["junior", "junior"],
+                "jobDescription": "enim fugiat laboris enim duis sint voluptate id exercitation Lorem nostrud magna duis veniam cillum officia eu",
+                "responsibilities": "mollit",
+                "experience": "fugiat fugiat nulla reprehenderit cillum adipisicing labore dolor magna commodo esse esse et ea exercitation ullamco et pariatur ipsum",
+                "skills": "veniam esse labore occaecat reprehenderit tempor sit enim sunt nostrud incididunt exercitation amet aliquip",
+                "languageSkills": [
+                    {
+                        "language": "Arabic",
+                        "skill": "C2"
+                    },
+                    {
+                        "language": "French",
+                        "skill": "B2"
+                    },
+                    {
+                        "language": "English",
+                        "skill": "C2"
+                    }
+                ],
+                "additionalInformation": null
+            },
+            "jobDetails": {
+                "jobLocation": "United Kingdom",
+                "remoteJob": false,
+                "workHours": "Any",
+                "salary": {
+                    "from": 800,
+                    "to": 1900
+                }
+            },
+            "contacts": {
+                "name": "Amelia Kohler",
+                "email": "Amelia.Kohler@Nvidia.com",
+                "social": [
+                    "http://nvidia.net",
+                    "http://nvidia.net",
+                    "http://nvidia.org"
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "jobTitle": "Regional Research Agent",
+            "jobCategory": "Design",
+            "companyDetails": {
+                "name": "Nationstar Mortgage Holdings",
+                "link": "http://nmh.name",
+                "industry": "IT",
+                "about": "dolor do culpa commodo id mollit ullamco elit velit duis dolore consectetur magna minim quis deserunt consequat eiusmod nostrud magna Lorem reprehenderit ea nulla reprehenderit"
+            },
+            "position": {
+                "jobExperience": ["senior", "senior"],
+                "jobDescription": "duis exercitation consequat quis sunt quis enim adipisicing officia laboris ad occaecat minim anim ut qui voluptate aliquip Lorem aute ullamco ipsum cupidatat adipisicing aute exercitation nulla laborum qui ut irure sunt aute excepteur consectetur ad magna dolore irure occaecat aliqua nostrud consectetur officia laborum eu",
+                "responsibilities": "commodo consequat ullamco minim minim",
+                "experience": "officia deserunt reprehenderit amet tempor mollit dolore ipsum qui commodo et cillum amet veniam velit et",
+                "skills": "proident fugiat aliqua incididunt deserunt qui consequat aute labore do",
+                "languageSkills": [
+                    {
+                        "language": "Arabic",
+                        "skill": "B2"
+                    }
+                ],
+                "additionalInformation": "commodo irure sunt mollit"
+            },
+            "jobDetails": {
+                "jobLocation": "Holy See (Vatican City State)",
+                "remoteJob": true,
+                "workHours": "Full Time",
+                "salary": {
+                    "from": 800,
+                    "to": 1100
+                }
+            },
+            "contacts": {
+                "name": "Wm Conroy",
+                "email": "Wm.Conroy@NationstarMortgageHoldings.ac.com",
+                "social": [
+                    "https://nmh.com",
+                    "https://nmh.com",
+                    "https://nmh.biz",
+                    "https://nmh.org",
+                    "https://nmh.net"
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "jobTitle": "Corporate Directives Representative",
+            "jobCategory": "Design",
+            "companyDetails": {
+                "name": "Hess",
+                "link": "http://hess.com",
+                "industry": "hotel business",
+                "about": "velit dolor cillum ex eu et ipsum velit et cillum esse do deserunt sunt veniam consectetur non"
+            },
+            "position": {
+                "jobExperience": ["senior", "middle"],
+                "jobDescription": "exercitation duis adipisicing Lorem enim ex commodo laborum consectetur sit velit velit quis nisi dolor",
+                "responsibilities": "occaecat commodo minim reprehenderit deserunt veniam enim id exercitation irure reprehenderit tempor adipisicing culpa sint",
+                "experience": "ullamco et quis deserunt cillum ex dolor consequat dolor consectetur fugiat ut laborum",
+                "skills": "in nostrud dolor voluptate velit commodo adipisicing laboris ut deserunt do adipisicing velit labore",
+                "languageSkills": [
+                    {
+                        "language": "English",
+                        "skill": "A1 (Beginner)"
+                    }
+                ],
+                "additionalInformation": null
+            },
+            "jobDetails": {
+                "jobLocation": "Iran",
+                "remoteJob": false,
+                "workHours": "Any",
+                "salary": {
+                    "from": 200,
+                    "to": 1300
+                }
+            },
+            "contacts": {
+                "name": "Rudolph Kemmer",
+                "email": "Rudolph.Kemmer9@Hess.gov",
+                "social": [
+                    "http://hess.info",
+                    "https://hess.name",
+                    "http://hess.com",
+                    "https://hess.biz",
+                    "https://hess.org"
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "jobTitle": "Dynamic Accounts Officer",
+            "jobCategory": "Design",
+            "companyDetails": {
+                "name": "AK Steel Holding",
+                "link": "https://ak_steel_holding.com",
+                "industry": "media",
+                "about": "voluptate in id amet deserunt cupidatat quis voluptate ipsum officia sunt id enim consectetur culpa dolor quis ad anim commodo adipisicing aliqua esse Lorem ex duis esse consequat est"
+            },
+            "position": {
+                "jobExperience": ["junior"],
+                "jobDescription": "elit ex commodo nisi in amet tempor aute consectetur sunt do magna enim nulla minim anim ex non eu est duis tempor commodo esse id minim commodo ea occaecat in quis et consectetur officia aliqua eu duis in duis anim mollit ullamco cupidatat dolore non duis culpa reprehenderit laborum commodo commodo labore elit mollit nostrud pariatur aute id elit cillum minim est magna ex tempor magna pariatur id exercitation irure minim sit consequat do et occaecat",
+                "responsibilities": "ad dolore pariatur laborum in velit fugiat aliqua deserunt aute amet qui",
+                "experience": "dolore consectetur sit mollit",
+                "skills": "non laboris culpa tempor nulla esse ullamco minim mollit aliquip minim eiusmod ad proident",
+                "languageSkills": [
+                    {
+                        "language": "Russian",
+                        "skill": "C2"
+                    },
+                    {
+                        "language": "Russian",
+                        "skill": "A1 (Beginner)"
+                    }
+                ],
+                "additionalInformation": "exercitation tempor anim irure esse incididunt quis nostrud sint sunt laboris ut excepteur officia"
+            },
+            "jobDetails": {
+                "jobLocation": "Saint Helena",
+                "remoteJob": true,
+                "workHours": "Full Time",
+                "salary": {
+                    "from": 100,
+                    "to": 2000
+                }
+            },
+            "contacts": {
+                "name": "Lindsey Quigley",
+                "email": "Lindsey.Quigley@AKSteelHolding.ac.com",
+                "social": [
+                    "http://aksteelholding.org",
+                    "https://ak_steel_holding.org",
+                    "https://aksteelholding.net",
+                    "http://aksteelholding.net"
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "jobTitle": "Customer Paradigm Liaison",
+            "jobCategory": "Administrative",
+            "companyDetails": {
+                "name": "Dow Chemical",
+                "link": "https://dow_chemical.name",
+                "industry": "IT",
+                "about": "velit dolore ex velit proident proident ut ad eu laboris officia aute irure enim magna voluptate velit cillum fugiat enim ut exercitation elit occaecat exercitation anim voluptate veniam deserunt ullamco"
+            },
+            "position": {
+                "jobExperience": ["senior"],
+                "jobDescription": "qui tempor culpa nisi enim sit consectetur officia proident excepteur amet incididunt nulla tempor nulla magna voluptate qui ad elit ea adipisicing ipsum voluptate incididunt laboris exercitation id dolor dolore quis aliqua fugiat sint incididunt nostrud velit deserunt amet in nulla duis dolore magna qui labore non occaecat in sunt est deserunt qui aliqua non sint do ad dolor qui magna Lorem",
+                "responsibilities": "laboris nisi consequat est pariatur Lorem anim cillum voluptate aliquip laboris cupidatat velit aliqua est ipsum eiusmod",
+                "experience": "nostrud minim ut cupidatat in cupidatat pariatur mollit eiusmod magna commodo id ullamco irure laboris sunt deserunt minim eiusmod",
+                "skills": "id amet voluptate Lorem fugiat commodo aute quis duis excepteur",
+                "languageSkills": [
+                    {
+                        "language": "English",
+                        "skill": "C2"
+                    }
+                ],
+                "additionalInformation": null
+            },
+            "jobDetails": {
+                "jobLocation": "Congo",
+                "remoteJob": false,
+                "workHours": "Part Time",
+                "salary": {
+                    "from": 500,
+                    "to": 1800
+                }
+            },
+            "contacts": {
+                "name": "Marianne Turner",
+                "email": "Marianne.Turner@DowChemical.ac.com",
+                "social": []
+            }
+        },
+        {
+            "id": 6,
+            "jobTitle": "Regional Infrastructure Director",
+            "jobCategory": "Design",
+            "companyDetails": {
+                "name": "Trinity Industries",
+                "link": "https://trinity_industries.biz",
+                "industry": "hotel business",
+                "about": "ad adipisicing qui eu amet minim incididunt duis ullamco minim minim laboris deserunt cupidatat labore sunt magna do minim officia deserunt Lorem aute consequat id aliquip dolore ipsum reprehenderit excepteur quis ipsum minim ut aliquip reprehenderit nisi excepteur commodo ullamco laborum pariatur consectetur deserunt voluptate ipsum in ea sit cillum eu minim in do"
+            },
+            "position": {
+                "jobExperience": ["middle", "senior"],
+                "jobDescription": "aliqua dolore magna eiusmod ad deserunt ut anim ea proident nostrud veniam occaecat sint veniam enim cupidatat reprehenderit quis dolore nisi qui culpa amet Lorem ex ex esse nulla aliqua amet ullamco pariatur commodo laborum est esse non do aliqua voluptate laboris cupidatat laboris occaecat nulla qui consequat enim consequat laboris ea laborum officia fugiat sit nisi quis minim consectetur et mollit laboris ut exercitation Lorem incididunt consequat veniam occaecat",
+                "responsibilities": "magna ut exercitation aute proident do ipsum elit ad dolor labore irure duis nulla",
+                "experience": "sint fugiat dolor exercitation labore amet deserunt amet esse ipsum Lorem irure fugiat dolor velit aliqua proident commodo",
+                "skills": "quis et",
+                "languageSkills": [
+                    {
+                        "language": "Arabic",
+                        "skill": "B2"
+                    }
+                ],
+                "additionalInformation": null
+            },
+            "jobDetails": {
+                "jobLocation": "Burkina Faso",
+                "remoteJob": false,
+                "workHours": "Full Time",
+                "salary": {
+                    "from": 900,
+                    "to": 1800
+                }
+            },
+            "contacts": {
+                "name": "Kent Zieme",
+                "email": "Kent_Zieme@TrinityIndustries.com",
+                "social": [
+                    "http://trinity-industries.org",
+                    "https://trinityindustries.com",
+                    "https://trinityindustries.biz",
+                    "http://trinity-industries.net",
+                    "http://trinity_industries.info"
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "jobTitle": "Central Directives Liaison",
+            "jobCategory": "Admin & Customer Support",
+            "companyDetails": {
+                "name": "Allergan",
+                "link": "http://allergan.com",
+                "industry": "media",
+                "about": "ut non reprehenderit esse cillum do dolore ullamco nisi et elit culpa nisi nulla magna velit incididunt eiusmod id enim consectetur sint ipsum ex cupidatat laboris nostrud id magna eu ullamco eu magna aliqua ea officia consequat Lorem velit est in consequat in mollit laborum culpa incididunt esse ex consectetur enim nostrud velit elit qui ullamco exercitation labore ex labore anim minim irure enim et aliqua sint sit labore ex"
+            },
+            "position": {
+                "jobExperience": ["middle", "middle"],
+                "jobDescription": "eiusmod non nostrud est enim cillum id reprehenderit reprehenderit magna adipisicing et velit nisi est amet aliqua adipisicing exercitation consectetur voluptate aute qui dolore laborum ipsum do incididunt sunt incididunt tempor sint minim nisi dolor Lorem laboris irure amet amet ut nisi mollit labore sunt qui qui commodo irure consectetur ex cupidatat ullamco nulla pariatur",
+                "responsibilities": "amet velit ea consequat nisi ipsum voluptate laboris duis cillum eu laboris amet nulla dolore amet",
+                "experience": "reprehenderit culpa incididunt consequat culpa ullamco esse in amet veniam id pariatur aliqua sit commodo labore commodo duis esse",
+                "skills": "do laborum qui nostrud culpa magna do quis sunt pariatur qui elit",
+                "languageSkills": [
+                    {
+                        "language": "French",
+                        "skill": "A2 (Ellementary)"
+                    },
+                    {
+                        "language": "Arabic",
+                        "skill": "C2"
+                    },
+                    {
+                        "language": "Arabic",
+                        "skill": "C1"
+                    }
+                ],
+                "additionalInformation": "reprehenderit irure dolor mollit fugiat aute occaecat labore nulla fugiat"
+            },
+            "jobDetails": {
+                "jobLocation": "Palestinian Territory",
+                "remoteJob": false,
+                "workHours": "Any",
+                "salary": {
+                    "from": 300,
+                    "to": 1600
+                }
+            },
+            "contacts": {
+                "name": "Lori Nicolas",
+                "email": "Lori_Nicolas@Allergan.org",
+                "social": [
+                    "http://allergan.com",
+                    "https://allergan.net",
+                    "https://allergan.net"
+                ]
+            }
+        },
+        {
+            "id": 8,
+            "jobTitle": "Direct Branding Technician",
+            "jobCategory": "Admin & Customer Support",
+            "companyDetails": {
+                "name": "Kar Auction Services",
+                "link": "https://kas.name",
+                "industry": "hotel business",
+                "about": "consequat velit adipisicing cupidatat enim aliqua irure duis consequat mollit in ad eu pariatur nisi dolore elit enim fugiat duis reprehenderit proident veniam ipsum laboris ex labore sint commodo elit officia ea et non amet voluptate duis non ipsum sint dolore laborum aliqua velit do velit adipisicing nisi ex officia non eiusmod est voluptate occaecat dolore do velit cupidatat dolor do in ut consectetur aliqua cupidatat"
+            },
+            "position": {
+                "jobExperience": ["junior", "junior"],
+                "jobDescription": "in anim aliquip exercitation irure irure adipisicing irure proident nostrud in",
+                "responsibilities": "ex ullamco officia nulla ullamco est est nulla minim veniam",
+                "experience": "sunt ad nisi culpa laborum consectetur qui consequat laborum labore anim esse irure aliqua ea officia",
+                "skills": "laborum magna mollit amet laboris est enim et magna",
+                "languageSkills": [
+                    {
+                        "language": "French",
+                        "skill": "B2"
+                    },
+                    {
+                        "language": "Russian",
+                        "skill": "B1"
+                    }
+                ],
+                "additionalInformation": "ipsum magna pariatur quis duis aliqua fugiat laboris tempor culpa aliqua enim aute nostrud deserunt velit"
+            },
+            "jobDetails": {
+                "jobLocation": "Egypt",
+                "remoteJob": false,
+                "workHours": "Part Time",
+                "salary": {
+                    "from": 1000,
+                    "to": 1600
+                }
+            },
+            "contacts": {
+                "name": "Denise Gleichner",
+                "email": "Denise23@KarAuctionServices.org",
+                "social": [
+                    "https://kas.org",
+                    "https://kas.biz",
+                    "http://kas.name",
+                    "https://kas.com"
+                ]
+            }
+        },
+        {
+            "id": 9,
+            "jobTitle": "National Identity Planner",
+            "jobCategory": "Analitics",
+            "companyDetails": {
+                "name": "R.R. Donnelley & Sons",
+                "link": "https://rrds.name",
+                "industry": "IT",
+                "about": "et sit sunt sit deserunt ex fugiat laboris sit nostrud laboris do minim eu sint esse sint mollit ut mollit dolor incididunt eiusmod dolor magna do eiusmod in non et adipisicing commodo id irure pariatur do sint do"
+            },
+            "position": {
+                "jobExperience": ["middle"],
+                "jobDescription": "adipisicing",
+                "responsibilities": "adipisicing tempor amet eiusmod qui qui deserunt Lorem ea amet laborum minim minim esse",
+                "experience": "minim et exercitation fugiat consectetur anim non aliqua ea est ea",
+                "skills": "pariatur exercitation irure laborum laboris consequat amet nostrud eiusmod fugiat consequat pariatur enim proident",
+                "languageSkills": [
+                    {
+                        "language": "English",
+                        "skill": "B1"
+                    },
+                    {
+                        "language": "French",
+                        "skill": "C1"
+                    }
+                ],
+                "additionalInformation": "Lorem eu ea eu enim fugiat"
+            },
+            "jobDetails": {
+                "jobLocation": "Seychelles",
+                "remoteJob": true,
+                "workHours": "Part Time",
+                "salary": {
+                    "from": 500,
+                    "to": 1700
+                }
+            },
+            "contacts": {
+                "name": "Dominick O'Hara",
+                "email": "Dominick.Parisian@RRDonnelleySons.gov",
+                "social": [
+                    "http://rrds.org",
+                    "http://rrds.net",
+                    "http://rrds.info",
+                    "http://rrds.info",
+                    "http://rrds.net"
+                ]
+            }
+        },
+        {
+            "id": 10,
+            "jobTitle": "Global Program Designer",
+            "jobCategory": "Admin & Customer Support",
+            "companyDetails": {
+                "name": "D.R. Horton",
+                "link": "https://d-r-horton.net",
+                "industry": "entertainment",
+                "about": "consectetur nulla consectetur occaecat laborum consequat eu ullamco occaecat occaecat exercitation cupidatat consequat voluptate laborum nulla ut minim ipsum do dolor culpa nisi nulla in velit pariatur sunt"
+            },
+            "position": {
+                "jobExperience": ["junior", "middle"],
+                "jobDescription": "mollit aute fugiat commodo culpa consequat tempor proident sunt dolore ex commodo officia id voluptate proident minim et amet commodo in amet",
+                "responsibilities": "in ea aliqua commodo velit aute culpa excepteur aliquip ea tempor aliquip consectetur ex",
+                "experience": "occaecat ad amet",
+                "skills": "esse eiusmod Lorem consequat elit culpa id",
+                "languageSkills": [
+                    {
+                        "language": "French",
+                        "skill": "B2"
+                    },
+                    {
+                        "language": "French",
+                        "skill": "B1"
+                    },
+                    {
+                        "language": "English",
+                        "skill": "B1"
+                    }
+                ],
+                "additionalInformation": null
+            },
+            "jobDetails": {
+                "jobLocation": "Niue",
+                "remoteJob": false,
+                "workHours": "Part Time",
+                "salary": {
+                    "from": 0,
+                    "to": 1100
+                }
+            },
+            "contacts": {
+                "name": "Elmer Jenkins",
+                "email": "Elmer1@DRHorton.gov",
+                "social": []
+            }
+        }
+    ],
+    "resume": [
+        {
+            "id": 1,
+            "name": "Павел",
+            "desiredPosition": "Технолог"
+        },
+        {
+            "id": 2,
+            "name": "Андрей",
+            "desiredPosition": "Программист 1с"
+        },
+        {
+            "id": 3,
+            "name": "Ирина",
+            "desiredPosition": "Бухгалтер"
+        }
+    ]
+}
