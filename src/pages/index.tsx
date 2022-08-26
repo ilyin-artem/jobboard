@@ -15,14 +15,14 @@ const Home: NextPage = (): JSX.Element => {
 
             <main className="my-auto flex grow ">
                 <Container className="flex w-full flex-col xl:my-auto">
-                    <h1 className="mt-auto text-center text-lg xl:my-auto xl:mb-14 xl:text-5xl">
+                    <h1 className="mt-auto mb-10 text-center text-lg xl:my-auto xl:mb-14 xl:text-5xl">
                         We just want to help you
                     </h1>
 
-                    <Form />
+                    <Form className="mb-10 mt-4" />
 
                     {/* Buttons block */}
-                    <div className="mt-auto mb-9 flex justify-center space-x-12 xl:mt-10">
+                    <div className="mt-auto mb-9 flex justify-center space-x-12 xl:mb-0">
                         <ButtonLink
                             href=""
                             color="white"

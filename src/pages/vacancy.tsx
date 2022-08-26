@@ -10,6 +10,7 @@ import axios from 'axios';
 import React from 'react';
 import { Vacancy } from '@/components/Vacancy/Vacancy';
 
+
 const Home: NextPage = (): JSX.Element => {
     const [vacancy, setVacancy] = useState<IVacancies[]>([]);
 
@@ -40,11 +41,14 @@ const Home: NextPage = (): JSX.Element => {
             <main className="my-auto flex grow ">
                 <Container className="flex w-full flex-col pt-20 ">
                     <Form />
-                    <ul className="pt-10">
-                        {vacancy.map(
-                            (r) =>
-                                r.id == 1 && <Vacancy vacancy={r} key={r.id} />
-                        )}
+                    <p className="my-6 text-gray-500">
+                        {vacancy.length}{' '}
+                        <span className="text-gray-300">results</span>{' '}
+                    </p>
+                    <ul className="space-y-10">
+                        {vacancy.map((r) => (
+                            <Vacancy vacancy={r} key={r.id} />
+                        ))}
                     </ul>
 
                     {/* <Vacancy vacancy={vacancyTitle} /> */}

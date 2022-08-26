@@ -1,1 +1,3 @@
-export interface FormProps extends React.FormHTMLAttributes<HTMLFormElement> {}
+export interface FormProps extends React.FormHTMLAttributes<HTMLFormElement> {
+    className?: string;
+}

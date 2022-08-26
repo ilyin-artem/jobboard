@@ -10,9 +10,9 @@ export function Header({ ...props }: HeaderProps): JSX.Element {
     return (
         <header
             {...props}
-            className="relative flex w-full justify-between pt-5 xl:fixed xl:top-1/2 xl:-mt-14"
+            className="relative flex w-full justify-between pt-5 xl:fixed xl:top-1/2 xl:-mt-12"
         >
-            <div className="relative ml-[10px]  h-[60px] w-[60px] rounded-full bg-white xl:ml-4 xl:h-[80px] xl:w-[80px]">
+            <div className="relative ml-[10px] h-[60px]  w-[60px] rounded-full bg-white xl:mx-14  xl:h-[80px] xl:w-[80px]">
                 <Link href="/">
                     <a>
                         <Image
@@ -27,7 +27,7 @@ export function Header({ ...props }: HeaderProps): JSX.Element {
                 </Link>
             </div>
 
-            <MobileNavigation className="mr-[10px] xl:mr-4" />
+            <MobileNavigation className="" />
         </header>
     );
 }
@@ -40,7 +40,7 @@ function MobileNavigation({ className }) {
                     <Popover.Button
                         className={
                             (clsx(
-                                'relative z-10 flex items-center justify-center [&:not(:focus-visible)]:focus:outline-none'
+                                'relative z-10 flex items-center justify-center [&:not(:focus-visible)]:focus:outline-none '
                             ),
                             className)
                         }
@@ -49,7 +49,7 @@ function MobileNavigation({ className }) {
                         <svg
                             viewBox="-13 -13 40 40"
                             aria-hidden="true"
-                            className="flex h-[60px] w-[60px] items-center justify-center overflow-visible rounded-full bg-white stroke-slate-700  xl:h-[80px] xl:w-[80px]"
+                            className=" flex h-[60px] w-[60px] items-center justify-center overflow-visible rounded-full bg-white stroke-slate-700 xl:mx-14  xl:h-[80px] xl:w-[80px]"
                             fill="fill"
                             strokeWidth={2}
                             strokeLinecap="round"

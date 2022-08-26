@@ -1,8 +1,6 @@
 import { LayoutProps } from './Layout.props';
 import { Header } from '@/layout/Header/Header';
 import { Footer } from '@/layout/Footer/Footer';
-// import { Sidebar } from '@/Sidebar/Sidebar';
-import clsx from 'clsx';
 import { FunctionComponent } from 'react';
 
 function Layout({ children }: LayoutProps): JSX.Element {

@@ -3,7 +3,7 @@ export interface IVacancies {
     jobTitle?: string;
     jobCategory?: string;
     companyDetails?: {
-        company?: string;
+        name?: string;
         link?: string;
         industry?: string;
         about?: string;

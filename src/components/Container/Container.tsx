@@ -10,7 +10,7 @@ export function Container({
     return (
         <div
             className={clsx(
-                'mx-auto max-w-7xl px-[10px] sm:px-6 lg:px-8 xl:px-[180px]',
+                'mx-auto max-w-[1440px] px-[10px] sm:px-6 lg:px-8 xl:px-[180px]',
                 className
             )}
             {...props}

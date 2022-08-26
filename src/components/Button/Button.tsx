@@ -49,6 +49,7 @@ export const ButtonLink = ({
     color = 'slate',
     href,
     className,
+    children,
     ...props
 }: ButtonLinkProps): JSX.Element => {
     return (
@@ -60,7 +61,9 @@ export const ButtonLink = ({
                     className
                 )}
                 {...props}
-            />
+            >
+                {children}
+            </a>
         </Link>
     );
 };
